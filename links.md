@@ -10,12 +10,18 @@
 - [GoBuster](https://github.com/OJ/gobuster)
 - [Hakrawler](https://github.com/hakluke/hakrawler)
 - [CyberChef](https://icyberchef.com)
+- [SearchSploit](https://www.exploit-db.com/searchsploit)
+
 
 ## Techniques
 - https://book.hacktricks.xyz
 
 ## Practice
 - [WebGoat](https://github.com/WebGoat/WebGoat)
+
+## Tutorials
+[NetCat Basics](https://www.hackingtutorials.org/networking/hacking-with-netcat-part-1-the-basics/)
+
 
 ## Exploit Databases
 - [Exploit DB](https://www.exploit-db.com)
@@ -142,6 +148,8 @@ https://dnsdumpster.com
 ## Subresource Integrity Hashes
 https://www.srihash.org
 
+## Reverse Shell Generator
+https://www.revshells.com
 
 
 # WINDOWS PRIVLIGE ESCALATION
@@ -211,7 +219,11 @@ https://github.com/its-a-feature/Mythic
 ## EAP Hammer - targeted evil twin attacks against WPA2-Enterprise networks
 https://github.com/s0lst1c3/eaphammer
 
-## netcat basics
-https://www.hackingtutorials.org/networking/hacking-with-netcat-part-1-the-basics/
+## NetExec - The Network Execution Tool
+https://github.com/Pennyw0rth/NetExec
+
+## Creditial Dumping SAM
+https://www.hackingarticles.in/credential-dumping-sam/
+
 
 
